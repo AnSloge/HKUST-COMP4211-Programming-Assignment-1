@@ -1,4 +1,4 @@
-# COMP4211-Programming-Assignment-1
+# Hong Kong University of Science and Technology COMP4211-Programming-Assignment-1
 
 ## Assignment 1
 
